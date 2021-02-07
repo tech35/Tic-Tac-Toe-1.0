@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-1.0
 The First Version of The Tic Tac Toe in Python
 
-![Alt text](https://github.com/Bilawal-Asghar/Tic-Tac-Toe-1.0/blob/main/instructions.PNG?raw=true?raw=true "instructions")
+![instructions](https://github.com/tech35/Tic-Tac-Toe-1.0/blob/main/instructions.PNG?raw=true)
 
 
 Instructions: 
